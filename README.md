@@ -29,7 +29,7 @@ Esse tipo de vulnerabilidade é comum em APIs mal protegidas e pode levar ao vaz
 
 ```bash
 git clone https://github.com/W3ndell-S04/valhalla_idor_scanner.git
-cd valhalla-idor-scanner
+cd valhalla_idor_scanner
 
 pip install -r requirements.txt
 ```
