@@ -28,7 +28,7 @@ Esse tipo de vulnerabilidade é comum em APIs mal protegidas e pode levar ao vaz
 ## 📦 Instalação
 
 ```bash
-git clone https://github.com/SEU-USUARIO/valhalla-idor-scanner.git
+git clone https://github.com/W3ndell-S04/valhalla_idor_scanner.git
 cd valhalla-idor-scanner
 
 pip install -r requirements.txt
